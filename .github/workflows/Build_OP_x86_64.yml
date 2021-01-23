@@ -56,7 +56,7 @@ jobs:
         git clone https://github.com/cnzd/luci-app-koolproxyR.git package/koolproxyR
         git clone https://github.com/kenzok8/small.git package/small
         git clone https://github.com/kenzok8/openwrt-packages.git package/kenzo
-        git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
+       # git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
        # git clone 其他github插件源码地址 package/文件夹名称  
         
     - name: Configuration Customization - Build_x86_64
